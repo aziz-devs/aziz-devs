@@ -59,30 +59,30 @@ Here is a concise overview of my active learning focus:
 
 ### 🟢 Comfortable With
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="Frontend and Development Tools" />
+</div>
+
+<br/>
 
 ### 🟡 Currently Learning & Building With
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Shopify_Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,shopify,postman&theme=dark" alt="Backend, Database and Shopify Technologies" />
+</div>
+
+<br/>
 
 ### 🔵 Exploring & Fundamentals
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-1e293b?style=for-the-badge)
-![AI & Automation](https://img.shields.io/badge/AI_%26_Automation-1e293b?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-1e293b?style=for-the-badge)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+</div>
+
+<p align="center">
+  <sub>System Design • Cloud • AI & Automation</sub>
+</p>
+
 
 <br/>
 
