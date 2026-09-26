@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./assets/header.svg" alt="Aziz - Profile Banner" width="100%" />
+<img src="./assets/header.png" alt="Aziz - Profile Banner" width="100%" />
 
 <br/><br/>
 
